@@ -170,6 +170,6 @@ Translated ML team requirements into a full production-style pipeline across two
 
 ## Certificate
 
-[📄 View Certificate (PDF)](Data%20Engineering%20Professional%20Certificate.pdf)
+[📄 View Certificate (PDF)](Data%20Engineering%20Professional%20Certificate.png)
 
 Issued by **DeepLearning.AI** · Instructor: **Joe Reis**
